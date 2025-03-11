@@ -91,31 +91,3 @@ MYSQL_DB_DATABASE=CampusDine
     Open your browser and go to `http://localhost:5173` for user interface.
 	Open your browser and go to `http://localhost:5174` for admin interface.
 
-
-## Screenshots
-
-### Client side interface screenshots
-
-![Home Page](screenshots/screenshot09.png)
-
-![Home Page](screenshots/screenshot08.png)
-
-![Home Page](screenshots/screenshot05.png)
-
-![Home Page](screenshots/screenshot04.png)
-
-![Home Page](screenshots/screenshot07.png)
-
-
-### Admin Dashboard screenshots
-
-![Admin Dashboard](screenshots/screenshot03.png)
-
-![Admin Dashboard](screenshots/screenshot02.png)
-
-![Admin Dashboard](screenshots/screenshot01.png)
-
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
