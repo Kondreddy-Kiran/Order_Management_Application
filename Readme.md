@@ -1,4 +1,4 @@
-# Canteen Food Ordering Web Application
+Food Ordering Web Application
 
 This web application allows students to place food orders online. It is developed using Express.js, React, Node.js, and MySQL. The application streamlines order management, enabling the college canteen to efficiently receive, prepare, and manage orders for student pickup.
 
